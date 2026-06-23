@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kannika
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Engineer
 - 🌱 I’m currently learning Python, SQL, PowerBI
 - 📫 Usint GITHUB to show my projects
 - 😄 Pronouns: SHE
